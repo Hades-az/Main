@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ScienceInUse
+- 👋 Hi, I’m @HADES
 - 👀 I’m interested in AI and nanotechnologies
 - 🌱 I’m currently learning Harvard's CS50
 
